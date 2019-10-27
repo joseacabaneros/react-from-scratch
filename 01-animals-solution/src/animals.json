@@ -1,0 +1,174 @@
+[
+    {
+        "name": "African Wild Dog",
+        "image": "african-wild-dog.jpg",
+        "estimate": {
+            "min": 3000,
+            "max": 5000
+        }
+    },
+    {
+        "name": "Amur Leopard",
+        "image": "amur-leopard.jpg",
+        "estimate": {
+            "max": 60
+        }
+    },
+    {
+        "name": "Amur Tiger",
+        "image": "amur-tiger.jpg",
+        "estimate": {
+            "max": 450
+        }
+    },
+    {
+        "name": "Asian Elephant",
+        "image": "asian-elephant.jpg",
+        "estimate": {
+            "min": 40000,
+            "max": 50000
+        }
+    },
+    {
+        "name": "Bengal Tiger",
+        "image": "bengal-tiger.jpg",
+        "estimate": {
+            "max": 2500
+        }
+    },
+    {
+        "name": "Black Footed Ferret",
+        "image": "black-footed-ferret.jpg",
+        "estimate": {
+            "max": 300
+        }
+    },
+    {
+        "name": "Black Rhino",
+        "image": "black-rhino.jpg",
+        "estimate": {
+            "max": 5000
+        }
+    },
+    {
+        "name": "Blue Whale",
+        "image": "blue-whale.jpg",
+        "estimate": {
+            "min": 10000,
+            "max": 25000
+        }
+    },
+    {
+        "name": "Bonobo",
+        "image": "bonobo.jpg",
+        "estimate": {
+            "min": 10000,
+            "max": 50000
+        }
+    },
+    {
+        "name": "Bornean Orangutan",
+        "image": "bornean-orangutan.jpg",
+        "estimate": {
+            "min": 45000,
+            "max": 69000
+        }
+    },
+    {
+        "name": "Borneo Pygmy Elephant",
+        "image": "borneo-pygmy-elephant.jpg",
+        "estimate": {
+            "max": 1500
+        }
+    },
+    {
+        "name": "Chimpazee",
+        "image": "chimpanzee.jpg",
+        "estimate": {
+            "min": 172700,
+            "max": 299700
+        }
+    },
+    {
+        "name": "Eastern Lowland Gorilla",
+        "image": "eastern-lowland-gorilla.jpg",
+        "estimate": {
+            "max": 17000
+        }
+    },
+    {
+        "name": "Fin Whale",
+        "image": "fin-whale.jpg",
+        "estimate": {
+            "min": 50000,
+            "max": 90000
+        }
+    },
+    {
+        "name": "Galapagos Penguin",
+        "image": "galapagos-penguin.jpg",
+        "estimate": {
+            "max": 2000
+        }
+    },
+    {
+        "name": "Giant Panda",
+        "image": "giant-panda.jpg",
+        "estimate": {
+            "max": 1864
+        }
+    },
+    {
+        "name": "Green Sea Turtle",
+        "image": "green-sea-turtle.jpg",
+        "estimate": {
+            "min": 3000,
+            "max": 5500
+        }
+    },
+    {
+        "name": "Hectors Dolphin",
+        "image": "hectors-dolphin.jpg",
+        "estimate": {
+            "max": 7000
+        }
+    },
+    {
+        "name": "Indian Elephant",
+        "image": "indian-elephant.jpg",
+        "estimate": {
+            "min": 20000,
+            "max": 25000
+        }
+    },
+    {
+        "name": "Indochinese Tiger",
+        "image": "indochinese-tiger.jpg",
+        "estimate": {
+            "min": 600,
+            "max": 650
+        }
+    },
+    {
+        "name": "Indus River Dolphin",
+        "image": "indus-river-dolphin.jpg",
+        "estimate": {
+            "max": 1100
+        }
+    },
+    {
+        "name": "Javan Rhino",
+        "image": "javan-rhino.jpg",
+        "estimate": {
+            "max": 60
+        }
+    },
+    {
+        "name": "Bonobo",
+        "image": "bonobo.jpg",
+        "estimate": {
+            "min": 10000,
+            "max": 50000
+        }
+    }
+]
